@@ -95,5 +95,10 @@ namespace App_nhac
         {
             txt_password.UseSystemPasswordChar = true;
         }
+
+        private void login_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

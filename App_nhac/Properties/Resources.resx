@@ -118,43 +118,97 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Fa-Team-Fontawesome-FontAwesome-Headphones-Simple.512" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\img\Fa-Team-Fontawesome-FontAwesome-Headphones-Simple.512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Pictogrammers-Material-Skip-previous-circle-outline.64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pictogrammers-Material-Skip-previous-circle-outline.64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Aniket-Suvarna-Box-Regular-Bx-log-in.512" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\img\Aniket-Suvarna-Box-Regular-Bx-log-in.512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Aniket-Suvarna-Box-Regular-Bx-log-in.48" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\img\Aniket-Suvarna-Box-Regular-Bx-log-in.48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Aniket-Suvarna-Box-Regular-Bx-log-in.72" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\img\Aniket-Suvarna-Box-Regular-Bx-log-in.72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="logout" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logout.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Fa-Team-Fontawesome-FontAwesome-Headphones-Simple.96" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\img\Fa-Team-Fontawesome-FontAwesome-Headphones-Simple.96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Steve-Zondicons-Playlist.48" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\img\Steve-Zondicons-Playlist.48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Fa-Team-Fontawesome-FontAwesome-Headphones-Simple.128" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\img\Fa-Team-Fontawesome-FontAwesome-Headphones-Simple.128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Steve-Zondicons-Playlist.512" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\img\Steve-Zondicons-Playlist.512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Icons8-Windows-8-Music-Note-Music.512" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\img\Icons8-Windows-8-Music-Note-Music.512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Wineass-Ios7-Redesign-Music.512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Wineass-Ios7-Redesign-Music.512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Fa-Team-Fontawesome-FontAwesome-Headphones-Simple.256" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\img\Fa-Team-Fontawesome-FontAwesome-Headphones-Simple.256.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Wineass-Ios7-Redesign-Music.512" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\img\Wineass-Ios7-Redesign-Music.512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="next-button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\next-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fa-Team-Fontawesome-FontAwesome-Headphones-Simple.512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Fa-Team-Fontawesome-FontAwesome-Headphones-Simple.512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="next1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\next1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pictogrammers-Material-Skip-next-circle-outline.64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pictogrammers-Material-Skip-next-circle-outline.64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Icons8-Windows-8-Music-Note-Music.48" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\img\Icons8-Windows-8-Music-Note-Music.48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Steve-Zondicons-Playlist.512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Steve-Zondicons-Playlist.512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Steve-Zondicons-Playlist.48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Steve-Zondicons-Playlist.48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="back" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\back.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fa-Team-Fontawesome-FontAwesome-Headphones-Simple.128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Fa-Team-Fontawesome-FontAwesome-Headphones-Simple.128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="previous" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\previous.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Aniket-Suvarna-Box-Regular-Bx-log-in.512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Aniket-Suvarna-Box-Regular-Bx-log-in.512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="play" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\play.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="power-switch (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\power-switch (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Aniket-Suvarna-Box-Regular-Bx-log-in.72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Aniket-Suvarna-Box-Regular-Bx-log-in.72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="play (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\play (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="previous (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\previous (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icons8-Windows-8-Music-Note-Music.512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Icons8-Windows-8-Music-Note-Music.512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="artworks-000678695422-yrk9be-t500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\artworks-000678695422-yrk9be-t500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="play (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\play (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="next" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\next.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="play (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\play (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logout (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logout (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="power-switch" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\power-switch.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="next (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\next (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Aniket-Suvarna-Box-Regular-Bx-log-in.48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Aniket-Suvarna-Box-Regular-Bx-log-in.48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Github-Octicons-Play-16.64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Github-Octicons-Play-16.64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
